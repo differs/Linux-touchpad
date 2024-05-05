@@ -1,6 +1,14 @@
 # Linux-touchpad
 some issues solved
 
+
+use 
+```
+   xinput list
+   
+```
+find touchpad id
+
 ```
 #!/bin/bash
 
